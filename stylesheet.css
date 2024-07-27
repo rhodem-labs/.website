@@ -1,9 +1,12 @@
+html {
+  height: 100%;
+}
+
 body {
   background-image: linear-gradient(to right, rgba(3, 36, 11, 1), rgba(3, 36, 11, 0)), url("https://raw.githubusercontent.com/rhodem-labs/.github/main/branding/Placeholder.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  min-height: 100vh;
 }
 
 img {
